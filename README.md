@@ -2,9 +2,7 @@
 <h1 align="center">Hi, I'm Jen</h1>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-<video width="100%" controls>
-  <source src="./videos/tunglol.mp4" type="video/mp4">
-</video>
+
 
 - 🔭 I’m currently working on Cyber Security. 
 - 🌱 I’m looking to collaborate on BVU.
