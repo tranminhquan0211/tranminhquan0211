@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Jen</h1>
 
-<img align="right" alt="" width="400" height="500" src="[https://media4.giphy.com/media/uhkgRdrMSnqDBofJru/200w.webp?cid=ecf05e47af0v533jouph3sbdcxfepa8lnkup854yvs8riam2&ep=v1_gifs_related&rid=200w.webp&ct=g)">
+<img align="right" alt="" width="400" height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTJid2ZlcWtjandzdG5qeXcwMGE3Y3R2NGJ3OGZsN3BrdGI4YzcyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lvwRKiEwJKA5lHuxd4/giphy.webp">
 
 
 - 🔭 I’m currently working on Cyber Security. 
