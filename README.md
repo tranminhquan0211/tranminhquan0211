@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Jen</h1>
+### Hi there, I'm Jen ✔️
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img align="right" alt="" width="400" height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTJid2ZlcWtjandzdG5qeXcwMGE3Y3R2NGJ3OGZsN3BrdGI4YzcyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lvwRKiEwJKA5lHuxd4/giphy.webp">
 
