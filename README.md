@@ -2,8 +2,6 @@
 <h1 align="center">Hi, I'm Jen</h1>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-
-
 - 🔭 I’m currently working on Cyber Security. 
 - 🌱 I’m looking to collaborate on BVU.
 - 🤝 I’m looking for help with everyone.
