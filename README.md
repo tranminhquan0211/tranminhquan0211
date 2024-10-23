@@ -31,8 +31,8 @@
 </p>
 
 <p align ="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenNhatTungg&layout=compact&theme=tokyonight&langs_count=6" height="165">
-  <img src="https://github-readme-stats.vercel.app/api?username=NguyenNhatTungg&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenNhatTungg&layout=compact&theme=tokyonight&langs_count=6" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=NguyenNhatTungg&show_icons=true&theme=tokyonight" height="180">
 </p>
 
 
