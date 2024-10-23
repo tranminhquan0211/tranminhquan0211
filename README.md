@@ -29,7 +29,7 @@
  
 </p>
 <p align ="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tranminhquan0211&theme=dracula" height="200">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tranminhquan0211&theme=dracula" height="200" width="500">
 </p>
 <p align ="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyennhattungg&layout=compact&theme=tokyonight&langs_count=6" height="180">
