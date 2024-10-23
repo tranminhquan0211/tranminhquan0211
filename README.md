@@ -7,7 +7,7 @@
 </video>
 
 - 🔭 I’m currently working on Cyber Security. 
-- 🌱 I’m looking to collaborate on IUH.
+- 🌱 I’m looking to collaborate on BVU.
 - 🤝 I’m looking for help with everyone.
 - 🌱 I’m currently learning security.
 
