@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Jen</h1>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img align="right" alt="" width="400" height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTJid2ZlcWtjandzdG5qeXcwMGE3Y3R2NGJ3OGZsN3BrdGI4YzcyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lvwRKiEwJKA5lHuxd4/giphy.webp">
 
 
@@ -34,3 +34,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyennhattungg&layout=compact&theme=tokyonight&langs_count=6" height="180">
   <img src="https://github-readme-stats.vercel.app/api?username=tranminhquan0211" height="180" color= "dark">
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
