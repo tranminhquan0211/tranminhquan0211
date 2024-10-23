@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Jen</h1>
 
-<img align="right" alt="Coding" width="400" src="[https://media.tenor.com/McPQygGOuXYAAAAi/gladgers-hacker-gers-guardians-of-galaxy.gif]">
+<img align="right" alt="Coding" width="400" src="[https://tenor.com/vi/view/computer-pressing-buttons-hacker-hacking-gif-616683848060071562]">
 <video width="100%" controls>
   <source src="./videos/tunglol.mp4" type="video/mp4">
 </video>
