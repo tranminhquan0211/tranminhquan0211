@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Jen</h1>
 
-<img align="right" alt="" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="" width="400" src="">
 
 
 - 🔭 I’m currently working on Cyber Security. 
