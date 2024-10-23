@@ -2,7 +2,6 @@
 <h1 align="center">Hi, I'm Jen</h1>
 
 <img align="right" alt="Coding" width="400" src="[https://tenor.com/vi/view/computer-pressing-buttons-hacker-hacking-gif-616683848060071562]">
-<div class="tenor-gif-embed" data-postid="13167413482750165588" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/hack-hacking-hacker-hackerman-programmer-gif-13167413482750165588">Hack Hacking Sticker</a>from <a href="https://tenor.com/search/hack-stickers">Hack Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <video width="100%" controls>
   <source src="./videos/tunglol.mp4" type="video/mp4">
 </video>
