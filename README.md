@@ -34,7 +34,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenNhatTungg&layout=compact&theme=tokyonight&langs_count=6" height="180">
   <img src="https://github-readme-stats.vercel.app/api?username=tranminhquan0211" height="180">
 </p>
-<picture>
+<picture background: dark"
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=tranminhquan0211"
     media="(prefers-color-scheme: dark)"
