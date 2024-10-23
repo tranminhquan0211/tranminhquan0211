@@ -30,7 +30,9 @@
 </p>
 
 <p align ="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tranminhquan0211&langs_count=6" height="180">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyennhattungg&layout=compact&theme=tokyonight&langs_count=6" height="180">
   <img src="https://github-readme-stats.vercel.app/api?username=tranminhquan0211" height="180" color= "dark">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyennhattungg&layout=compact&theme=tokyonight&langs_count=6" height="180">
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
