@@ -28,9 +28,8 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
  
 </p>
-<p align ="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tranminhquan0211&theme=dracula" height="200" width="1300">
-</p>
+
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tranminhquan0211&theme=dracula">
 <p align ="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyennhattungg&layout=compact&theme=tokyonight&langs_count=6" height="180">
   <img src="https://github-readme-stats.vercel.app/api?username=tranminhquan0211" height="180" color= "dark">
