@@ -31,7 +31,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tranminhquan0211&theme=dracula" width = "1000">
 <p >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyennhattungg&layout=compact&theme=tokyonight&langs_count=6" height="200">
-  <img src="https://github-readme-stats.vercel.app/api?username=tranminhquan0211" height="200" color= "dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=tranminhquan0211&theme=dracula" height="200">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tranminhquan0211&theme=dracula" height="200">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tranminhquan0211&theme=dracula&utcOffset=8" height="200">
 </p>
