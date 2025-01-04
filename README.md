@@ -35,4 +35,4 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tranminhquan0211&theme=dracula" height="200">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tranminhquan0211&theme=dracula&utcOffset=8" height="200">
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
